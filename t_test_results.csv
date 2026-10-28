@@ -1,0 +1,5 @@
+Test,Statistic,P_Value,Test_Type
+Paired FGM vs FGA,-133.0069641490044,0.0,Related samples
+Independent FGM vs FGA,-66.25149141798289,0.0,Welch two-sample
+FGM vs 0,131.982535890673,0.0,One-sample
+FGA vs 0,135.03821115722386,0.0,One-sample

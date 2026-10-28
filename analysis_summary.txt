@@ -1,0 +1,28 @@
+Regular-season rows: 4658
+Longest recorded career: Vince Carter (19 seasons)
+Regression: accuracy = -0.00251742 * year + 5.427571
+R-squared: 0.233861
+Regression p-value: 0.0359302
+Fitted average accuracy: 37.0083%
+Actual season-average accuracy: 36.9950%
+Career weighted accuracy: 37.3492%
+Average three-pointers made per recorded season: 114.05
+
+Interpolated missing seasons:
+     Season  Season_Start  Estimated_Three_Point_Accuracy
+2002 - 2003          2002                        0.384649
+2015 - 2016          2015                        0.337896
+
+FGM and FGA descriptive statistics:
+          Mean      Variance     Skew  Kurtosis
+FGM 311.484113  25944.084459 0.766956  0.149748
+FGA 679.861958 118066.751179 0.733142  0.120523
+
+T-tests:
+                  Test  Statistic  P_Value        Test_Type
+     Paired FGM vs FGA   -133.007        0  Related samples
+Independent FGM vs FGA   -66.2515        0 Welch two-sample
+              FGM vs 0    131.983        0       One-sample
+              FGA vs 0    135.038        0       One-sample
+
+Results saved in: results
